@@ -1,0 +1,6 @@
+{
+  "name": "LogiSense AI",
+  "description": "A predictive logistics dashboard powered by Gemini AI. Simulates risk analysis, shipment tracking, and dynamic rerouting based on real-time intelligence inputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
